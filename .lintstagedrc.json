@@ -1,5 +1,0 @@
-{
-  "*.{js,json,md,html}": ["prettier --write"],
-  "*.(css|scss)": ["npm run stylelint"],
-  "*.{js,ts}": ["npm run lint"]
-}
