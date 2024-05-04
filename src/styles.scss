@@ -1,0 +1,26 @@
+:root {
+  --fs-s: 0.875rem; // 14px
+  --fs-m: 1rem; // 16px
+  --fs-l: 1.25rem; // 20px
+  --color-auxiliary: #9a9a9a; // Вспомогательный цвет
+  --color-primary: #4b4e51; // Основной цвет
+  --color-secondary: #f1f1f1; // Вторичный цвет
+  --padding-s: 1.25rem; //20px
+  --padding-m: 1.5rem; // 24px
+  --padding-l: 2rem; // 32px
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  line-height: 100%;
+}
+
+a {
+  display: block;
+
+  color: black;
+  text-decoration: none;
+}
